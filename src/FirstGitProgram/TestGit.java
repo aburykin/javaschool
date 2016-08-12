@@ -6,7 +6,7 @@ package FirstGitProgram;
 public class TestGit {
 
     public static void main(String[] args){
-        System.out.println("Hello GIT after commit!");
+        System.out.println("Hello GIT after commit!  12345");
 
     }
 
